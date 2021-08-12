@@ -1,0 +1,13 @@
+body {
+	color: #3c3c3c;
+	font: 16px/1.7 'Playfair Display', serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+}
+
+.container {
+	max-width: 1146px;
+}

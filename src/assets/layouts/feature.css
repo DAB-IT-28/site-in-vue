@@ -1,0 +1,18 @@
+.feature {
+  background: #fbfbfb;
+  padding: 100px 0;
+  text-align: center;
+}
+.feature__icon, .feature__title {
+  padding-bottom: 25px;
+}
+.feature__title {
+  font-size: 20px;
+  font-weight: bold;
+}
+.feature__p {
+  font-size: 14px;
+}
+.feature__col_pad {
+  padding: 0 20px;
+}

@@ -1,0 +1,31 @@
+.home {
+  position: relative;
+}
+.home__offering {
+  padding: 125px 0;
+  position: relative;
+}
+.home__offeringTitle {
+  font-size: 37px;
+  color: #303030;
+  text-align: right;
+  font-weight: 500;
+}
+.home_border {
+  position: relative;
+}
+.home_border::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  right: 12px;
+  width: 50px;
+  height: 3px;
+  background-color: #303030;
+}
+.home__slider {
+  padding-top: 75px;
+  height: 545px;
+  overflow: hidden;
+  box-sizing: border-box;
+}

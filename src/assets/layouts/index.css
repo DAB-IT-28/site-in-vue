@@ -1,0 +1,10 @@
+@import './fonts.css';
+/* @import './colors'; */
+@import './base.css';
+@import './footer.css';
+
+@import './home.css';
+@import './feature.css';
+@import './properties.css';
+@import './carousel-picture-content.css';
+@import './banner.css';
