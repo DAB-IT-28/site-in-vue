@@ -1,5 +1,5 @@
 export const menuList = [
-	{ name: 'home', path: '/' },
+	{ name: 'Home', path: '/' },
 	{ name: 'About Us', path: '/about' },
 	{ name: 'Property', path: '/property' },
 	{ name: 'Our Blog', path: '/blog' },
@@ -7,7 +7,7 @@ export const menuList = [
 ]
 
 export const menuClient = [
-	{ name: 'Sign in', path: 'Sign' },
+	{ name: 'Sign in', path: '/Sign' },
 	{ name: 'Forum', path: '/forum' },
 	{ name: 'Promotions', path: '/promotions' },
 	{ name: 'News', path: '/news' },
